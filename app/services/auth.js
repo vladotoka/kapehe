@@ -3,6 +3,7 @@ import { computed } from '@ember/object';
 import config from 'ember-js-auth/config/environment';
 
 export default Service.extend({
+  //промяната тече бурно
   
   /**
    * Configure our auth0 instance
